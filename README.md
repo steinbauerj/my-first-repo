@@ -1,4 +1,4 @@
-# my-first-repo
+# My first repository
 
 ### This is the repo we have been using to learn GitHub.
 
